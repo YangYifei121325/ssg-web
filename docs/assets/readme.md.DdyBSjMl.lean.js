@@ -1,0 +1,1 @@
+import{_ as t,c as i,o as a,ae as e}from"./chunks/framework.Dw8ufOnY.js";const u=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"readme.md","filePath":"readme.md"}'),n={name:"readme.md"};function p(l,s,o,h,r,d){return a(),i("div",null,s[0]||(s[0]=[e("",7)]))}const c=t(n,[["render",p]]);export{u as __pageData,c as default};
